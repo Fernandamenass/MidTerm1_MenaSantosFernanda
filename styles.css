@@ -1,0 +1,213 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f8f8;
+}
+
+.Total {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+h1{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 33px;
+}
+
+h2{
+  font-family: 'Raleway', sans-serif;
+}
+
+.Seccion1 {
+  height: 80px;
+  padding: 20px 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+}
+
+.icono{
+  margin-right: 10px;
+}
+
+.LadosOpuestos {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.logo {
+  height: 40px;
+}
+
+.Lado {
+  display: flex;
+  align-items: center;
+}
+
+.componente {
+  margin: 0 20px;
+  color: #000000;
+  font-size: 13px;
+  cursor: pointer;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+}
+
+p{
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.circul{
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  margin: 20px;
+}
+
+.Seccion21 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 60px 200px 220px;
+  background-color: white;
+}
+
+.Seccion21 h1 {
+  font-size: 33px;
+  font-weight: bold;
+  color: #000000;
+}
+
+.Seccion21 p {
+  font-size: 18px;
+  color: #000000;
+  margin-bottom: 20px;
+}
+
+.img2 {
+  width: 40%;
+}
+
+.form-section {
+  display: flex;
+}
+
+.DesignBar {
+  width: 300px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-right: 10px;
+}
+
+.started {
+  background-color: #3065F8;
+  color: white;
+  text-align: center;
+  padding: 10px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 130px;
+  margin-left: 15px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+
+.started1 {
+  background-color: #3065F8;
+  color: white;
+  text-align: center;
+  padding: 10px 12px;
+  border-radius: 1px;
+  width: 170px;
+  margin-left: 0px;
+  margin-top: 10px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+
+.Seccion3 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 60px 200px;
+  background-color: #f2f4f8;
+}
+
+.Seccion3 h1 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #000000;
+}
+
+.Seccion3 p {
+  font-size: 18px;
+  color: #000000;
+  margin-bottom: 20px;
+}
+
+.new p{
+  font-size: 13px;
+}
+
+.img1 {
+  width: 50%;
+}
+
+.Muestra {
+  background-color: white;
+  width: 300px;
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.Muestra p {
+  font-size: 12px;
+}
+
+.Seccion4 {
+  text-align: center;
+  padding: 60px 200px;
+  background-color: #585989;
+  color: white;
+}
+
+.Seccion4 h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: start;
+}
+
+.Seccion4 p {
+  font-size: 14px;
+  margin-bottom: 20px;
+  text-align: start;
+}
+
+.Seccion5 {
+  background-color: #070439;
+  color: white;
+  padding: 40px 200px;
+  align-items: center;
+}
+
+.Seccion5 .Lado div {
+  margin: 0 15px;
+  cursor: pointer;
+  color: white;
+}
+
+.Resaltado{
+  text-decoration: underline;
+  color: rgb(44, 174, 61);
+  font-family: 'Raleway', sans-serif;
+}
